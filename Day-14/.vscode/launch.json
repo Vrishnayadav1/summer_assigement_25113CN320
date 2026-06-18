@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/yadav/OneDrive/Documents/Day-2/sum_of_digits",
-      "program": "c:/Users/yadav/OneDrive/Documents/Day-2/sum_of_digits/build/Debug/outDebug",
+      "cwd": "c:/Users/yadav/OneDrive/Documents/Day-14",
+      "program": "c:/Users/yadav/OneDrive/Documents/Day-14/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
